@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color :blueviolet;
+}
+
+
+.l1{
+    list-style-type:none;
+    display: inline;
+    margin: 40px;
+    color:red;
+    
+
+}
+.d1{
+    position: fixed;
+     top: 70px;  /*its not waitb for the page go to top 70px */
+    background-color: skyblue;
+    padding: 5px;
+
+}
